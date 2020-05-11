@@ -1,0 +1,1 @@
+web: gunicorn funminehan_project.wsgi --log-file -
